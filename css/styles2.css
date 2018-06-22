@@ -1,0 +1,71 @@
+/*
+Design by Metamorphosis Design
+http://www.metamorphozis.com
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight:bold;
+    color: #06639e;
+    text-decoration:underline;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: #000000;
+}
+
+*
+{
+    border: 0;
+    margin: 0;
+}
+
+
+#buttons{
+    width: 1016px;
+    height: 57px;
+    margin: 0 auto;
+    padding-top: 15px;
+    background: url(../images/menubg.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+	
+	
+}
+
+#buttons ul {
+    padding-left: 0px;
+	
+}
+
+#buttons li {
+    display:inline ;
+	
+}
+
+#buttons a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    text-decoration: none;
+    color:#000;
+    display: block;
+    float: left;
+    width: 20%;
+    height: 37px;
+    padding-top: 19px;
+    margin-top: 1px;
+}
+
+#buttons a:hover, .active{
+   background: url(../images/menu_h.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   color:#F00;
+}
+
+
