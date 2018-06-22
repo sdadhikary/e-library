@@ -1,0 +1,15 @@
+Help
+
+* Registration: One should be a member of college. He must have college registration id. One can only register if his/her GR_NO should be in database.
+    There are four categories for registration
+1. Student
+2. Staff
+3. Librarian
+4. Admin
+* New user cannot create password of its own. The password will be provided by admin.
+* If user forget their password. They can directly contact to admin.
+* Student: Student only have the authentication of reading the information provided in the website.
+* Staff: Staff have authentication of uploading and reading the information.
+* Librarian: They can upload any book or any information.   
+* Admin: He have full authentication on the website.
+
